@@ -1,0 +1,27 @@
+<html>
+
+<head>
+
+<title>Directing to the survey</title>
+
+<meta http-equiv="Content-Language" content="zh-CN">
+
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
+
+<script type="text/javascript">
+if (Math.ceil(Math.random()*10)>5){
+document.write('<meta http-equiv="refresh" content="0.2;url=https://www.wjx.cn/jq/33399480.aspx">')
+}
+else
+{
+document.write('<meta http-equiv="refresh" content="0.2;url=https://www.wjx.cn/jq/33399428.aspx">')
+}
+</script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
